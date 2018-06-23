@@ -1,4 +1,24 @@
-Welcome to my resume project!
-      In this repository, there will include all my resume information about my education, profession and experience. All the information will be uploaded and updated frequently to match up with the latest information. Every types of data in this project will be supportive sources for creating a website based on html5. The purpose of creating a website for my resume is for my Website Development class in my university. However, I hope this website will be a supportive source for my future career in the near future, too. Thank you very much! I'm very grateful for your visit.
-                                                                                                          Your Sincerely,
-                                                                                                                  Tam Le.
+<!DOCTYPE html>
+<html lang="en">
+<body style="background-color:lightpink;">
+
+
+  <title>Tam Le's Resume</title>
+
+    <h2 style="font-family: 'Shrikhand', cursive; font-size:50px; text-align:center;">
+      <em>Welcome to my resume project!</em>
+    </h2>
+    
+      <p style="font-family:courier;">
+        This project is created for school's purposes.
+        However, every information is providing in this project is accurate.
+        If you are a recruiter, please contact me via email for more information.
+        Thank you very much! And, I'm very appreciated for your visit.<b/>
+      <style="font-family:courier; text-align:right;">Your sincerely,<b/>
+      Tam Le.</style></p>
+
+  <body>
+  </body>
+
+</html>
+
