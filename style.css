@@ -1,0 +1,98 @@
+body {
+  background: linear-gradient(to top, black, deeppink, pink);
+  font-family: 'Inconsolata', monospace;
+  width: 1024px;
+  height: auto;
+  margin: auto;
+  }
+  /*---Ending general body style---*/
+  h1 {
+  width: 948px;
+  height: auto;
+  border: 20px solid midnightblue;
+  text-align: center;
+  padding: 20px;
+  background-color: midnightblue;
+  opacity: 0.85;
+  color: white;
+  }
+  /*---Ending general heading style---*/
+  .nav {
+    background-color: black;
+    padding: 10px;
+  }
+  .nav li{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: midnightblue;
+    color: white;
+    border: 2px solid white;
+    width: 1024px;
+    padding: 10px;
+  }
+  .nav li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  }
+  /*---Ending general menu bar style---*/
+  .main {
+  background-color: black;
+  color: white;
+  width: 984px;
+  padding: 20px;
+  }
+  /*--introduction part style--*/
+
+/*--Ending general part of every page--*/
+
+  /*--Main page--*/
+  .resume{
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+    width: 984px;
+    opacity: 0.85;
+    border: 20px solid midnightblue;
+    font-family: arial;
+  }
+  .resume li{
+    text-align: left;
+    display:flex;
+  }
+  /*---Ending resume style of main page---*/
+
+  /*--photography page--*/
+  .image {
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+    border: 10px solid midnightblue;
+    opacity: 0.85;
+    background-color: midnightblue;
+  }
+  /*--Ending pictures style of photography page--*/
+
+  /*--Email page--*/
+  form {
+    box-sizing: content-box;
+    border: 17px solid black;
+    color: white;
+    background-color: midnightblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+  }
+  /*--Ending form style of email page--*/
+  footer {
+    text-align: right;
+    background-color: black;
+    width: 1024px;
+    color: white;
+  }
