@@ -1,21 +1,40 @@
 body {
-  background: linear-gradient(to top, black, deeppink, pink);
+  background: ghostwhite;
   font-family: 'Inconsolata', monospace;
   width: 1024px;
   height: auto;
   margin: auto;
   }
-  /*---Ending general body style---*/
-  h1 {
-  width: 948px;
-  height: auto;
-  border: 20px solid midnightblue;
-  text-align: center;
-  padding: 20px;
-  background-color: midnightblue;
-  opacity: 0.85;
-  color: white;
+  h1{
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border-bottom: 50px solid ghostwhite;
   }
+  /*---Ending general body style---*/
+  .header {
+    background-color: white;
+    width: 1024px;
+    margin: auto;
+    overflow: auto;
+    border-bottom: 50px solid ghostwhite;
+  }
+  .header img {
+    height: 400px;
+    width: 300px;
+    float: left;
+    margin-left: 100px;
+  }
+  .header h1 {
+  width: 400px;
+  margin-left: 524px;
+  margin-top: 0px;
+  height: auto;
+  color: black;
+  font-family: cursive;
+  position: relative;
+  }
+
   /*---Ending general heading style---*/
   .nav {
     background-color: black;
@@ -42,6 +61,7 @@ body {
   color: white;
   width: 984px;
   padding: 20px;
+  border-bottom: 50px solid ghostwhite;
   }
   /*--introduction part style--*/
 
@@ -50,11 +70,11 @@ body {
   /*--Main page--*/
   .resume{
     text-align: center;
-    background-color: midnightblue;
-    color: white;
+    background-color: white;
+    color: black;
     width: 984px;
     opacity: 0.85;
-    border: 20px solid midnightblue;
+    border: 20px solid white;
     font-family: arial;
   }
   .resume li{
@@ -66,20 +86,20 @@ body {
   /*--photography page--*/
   .image {
     text-align: center;
-    color: white;
+    color: black;
     box-sizing: border-box;
-    border: 10px solid midnightblue;
+    border: 10px solid white;
     opacity: 0.85;
-    background-color: midnightblue;
+    background-color: white;
   }
   /*--Ending pictures style of photography page--*/
 
   /*--Email page--*/
   form {
     box-sizing: content-box;
-    border: 17px solid black;
-    color: white;
-    background-color: midnightblue;
+    border: 17px solid white;
+    color: black;
+    background-color: white;
     margin-left: auto;
     margin-right: auto;
     width: 950px;
