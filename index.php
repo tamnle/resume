@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 
     <div class="header">
-      <img src="pictures/face.png" alt="profile picture">
+      <img src="/pictures/face.png" alt="profile picture">
     <h1>
       <strong><strong><small>Tam N. Le</small></strong></strong>
       <small><small><small><small><br/>
