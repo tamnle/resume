@@ -21,13 +21,13 @@
       <h3><u>Here are some of my recent photos:</u><br/>
       <small><small><em>(Pictures were resized for faster page load.)</em></small></small></h3>
       <br/><br/>
-      <img src="pictures/chinatown.jpg" alt="China Town in New York">
+      <img src="/pictures/chinatown.jpg" alt="China Town in New York">
       <br/> China Town in New York, US
       <br/><br/>
-      <img src="pictures/japanesedolls.jpg" alt="Japanese Dolls">
+      <img src="/pictures/japanesedolls.jpg" alt="Japanese Dolls">
       <br/> Japanese dolls
       <br/><br/>
-      <img src="pictures/girlwithroses.jpg" alt="Girl and Roses">
+      <img src="/pictures/girlwithroses.jpg" alt="Girl and Roses">
       <br/> Girl with roses
       <br/><br/>
     </div>
